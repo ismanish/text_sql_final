@@ -1,0 +1,22 @@
+#  Ignore Python environment files
+__pycache__/
+
+# Ignore database folder
+# database/database.ini
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore log files
+# Uncomment the following line if you want to ignore log files
+# *.log
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore IDE and editor files
+.vscode/
+
+# Docker file
+.dockerignore
